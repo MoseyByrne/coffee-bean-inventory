@@ -14,7 +14,7 @@
 ## Description
 
 _A webpage written in JavaScript XML using basic bootstrap CSS styling & JavaScript for functionality. It allows users to add beans to the stock of their coffee shop._
-[Component Diagram](https://drive.google.com/file/d/1_-e9rl4gfP1hx0IuEsA6knrO7ppoMLwN/view?usp=sharing)
+[Component Diagram](https://drive.google.com/file/d/1knlDV8tC_RwgD5Yt_1RUT3gXRWDD6qNW/view?usp=sharing)
 
 ## Setup/Installation Requirements
 
